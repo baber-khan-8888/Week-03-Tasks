@@ -1,4 +1,3 @@
-# Week-03-Tasks**
 # Multi-Protocol Routing: OSPF, RIPv2, and Static Route Redistribution
 
 A simulated enterprise network built in **GNS3**, demonstrating multi-area OSPF, RIPv2, static routing, and route redistribution between all three — with floating static backup links for redundancy.
